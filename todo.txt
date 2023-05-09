@@ -1,0 +1,19 @@
+0. understand the current implementation before deleting.✅
+
+
+1. remove 100 vertex limitation in graph.h class ✅
+2. rewrite graph class to use an adjacency list instead of an adjacency matrix. ✅
+3. the adjacency list doesn't have to be a linked list✅
+4. need list of edges, any data structure can be used✅
+5. 
+
+
+4/23
+1. all main functions in graph class ✅
+2. update dump function in graph.h✅
+3. run tests // double check✅
+
+4/24 - application.cpp
+1. Fix dijkstra's algorithm
+2. add print statement to print person1,person1 location and coordinates. Then nearest nodes, and distance to travel to center
+3. 

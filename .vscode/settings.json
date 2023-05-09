@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "string": "cpp"
+    }
+}
